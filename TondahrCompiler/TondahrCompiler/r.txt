@@ -1,0 +1,28 @@
+StationName	varchar(255)	Checked
+StationAddress	varchar(255)	Checked
+State	varchar(50)	Checked
+Code	varchar(15)	Checked
+
+<?xml version="1.0"?><FTResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><ReferenceID>AAACT18277PCR9RRR9</ReferenceID><ResponseCode>-1</ResponseCode><ResponseText>LESS THEN ARRANGEMENT START DATE</ResponseText></FTResponse>
+
+CustomerId 14412319
+branch NG0020555
+ChangePeriod 7D
+Currency NGN
+EffectiveDate 10/4/2018 12:00:00 AM
+Amount 1200
+Rate 6.25
+PayInAcct 0069616339
+PayInAcct1 0069616339
+PayInAcct2 0069616339
+PayInAcct3 0069616339
+ChangePeriod 7D
+
+CreateTermDepositRolloverWithInterest
+
+http://10.0.41.101/ACPT24ws/LoanServices.asmx
+
+
+2 + 3 == 1 ? [ 1 : 500] : 2 * 3 + 1
+
+https://information.rapid7.com/metasploitable-download.html

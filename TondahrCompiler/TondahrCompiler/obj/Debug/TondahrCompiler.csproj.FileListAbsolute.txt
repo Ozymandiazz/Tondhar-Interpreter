@@ -1,0 +1,7 @@
+c:\users\specta2\source\repos\TondahrCompiler\TondahrCompiler\bin\Debug\TondahrCompiler.exe.config
+c:\users\specta2\source\repos\TondahrCompiler\TondahrCompiler\bin\Debug\TondahrCompiler.exe
+c:\users\specta2\source\repos\TondahrCompiler\TondahrCompiler\bin\Debug\TondahrCompiler.pdb
+c:\users\specta2\source\repos\TondahrCompiler\TondahrCompiler\obj\Debug\TondahrCompiler.csprojAssemblyReference.cache
+c:\users\specta2\source\repos\TondahrCompiler\TondahrCompiler\obj\Debug\TondahrCompiler.csproj.CoreCompileInputs.cache
+c:\users\specta2\source\repos\TondahrCompiler\TondahrCompiler\obj\Debug\TondahrCompiler.exe
+c:\users\specta2\source\repos\TondahrCompiler\TondahrCompiler\obj\Debug\TondahrCompiler.pdb

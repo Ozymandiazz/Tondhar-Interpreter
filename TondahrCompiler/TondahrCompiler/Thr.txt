@@ -1,0 +1,4 @@
+va = meghee_ya 1 : 100 mechie_ya meghee_ya 1 : 100 mechie_ya meghee_ya 1 : 100 mechie_ya ti_ba 2
+ba = 100 * 234 + 1
+oghini_bu 12 * 12
+Kwuo_ihe_no_na " Hello Emmanuel "
